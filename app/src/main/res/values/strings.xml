@@ -5,4 +5,7 @@
     <string name="Email">E-mail</string>
     <string name="textview">TextView</string>
     <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="About">About</string>
+    <string name="Term">Term</string>
 </resources>
