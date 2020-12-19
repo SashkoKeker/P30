@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P30</string>
+    <string name="hello">Hello</string>
+    <string name="Pass">Password</string>
+    <string name="Email">E-mail</string>
+    <string name="textview">TextView</string>
+    <string name="share">Share</string>
+</resources>
