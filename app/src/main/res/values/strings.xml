@@ -8,4 +8,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="About">About</string>
     <string name="Term">Term</string>
+    <string name="sharing_not_available">sharing_not_available</string>
 </resources>
